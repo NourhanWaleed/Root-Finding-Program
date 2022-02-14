@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+out\test\*
+.idea
+out.json
+input.json
+*.json
+out
